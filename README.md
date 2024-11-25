@@ -10,3 +10,8 @@ Create a dictionar using html css javascript
 3.Support for multiple languages (optional).
 
 4.Clean and responsive user interface.
+```sh
+rwrww
+````
+
+
